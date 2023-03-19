@@ -169,6 +169,7 @@ class RegisterScreen extends StatelessWidget {
                                   navigateTo(context, RegisterScreen());
                                 },
                                 child: const Text('Creat acount',
+                                
                                     style: TextStyle(
                                         color: Color(0xFF064492), fontSize: 14.0)),
                               ),
